@@ -1,0 +1,5 @@
+All credit to Spoyser for this amazing addon, original source:
+https://github.com/spoyser/spoyser-repo
+
+and Primaeval for the player fix:
+https://github.com/primaeval/spoyser-repo/commit/cc54fbfb70afd889fe2dc4421915e68a5d6ba10a
